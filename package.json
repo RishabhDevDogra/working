@@ -28,5 +28,13 @@
   ],
   "author": "Rishabh Dev Dogra",
   "license": "MIT",
-  "devDependencies": {}
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhDevDogra/Assign1_Rishabh.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RishabhDevDogra/Assign1_Rishabh/issues"
+  },
+  "homepage": "https://github.com/RishabhDevDogra/Assign1_Rishabh#readme"
 }
