@@ -1,5 +1,5 @@
 {
-  "name": "week03",
+  "name": "assign001",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -26,13 +26,13 @@
     "stack",
     "portfolio"
   ],
-  "author": "Rishabh Dev Dogra",
-  "license": "MIT",
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RishabhDevDogra/newworkingh.git"
+    "url": "git+https://github.com/RishabhDevDogra/newworking.git"
   },
+  "author": "",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RishabhDevDogra/newworking/issues"
   },
