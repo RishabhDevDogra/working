@@ -29,12 +29,12 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RishabhDevDogra/newworking.git"
+    "url": "git+https://github.com/RishabhDevDogra/wworking.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/RishabhDevDogra/newworking/issues"
+    "url": "https://github.com/RishabhDevDogra/working/issues"
   },
-  "homepage": "https://github.com/RishabhDevDogra/newworking#readme"
+  "homepage": "https://github.com/RishabhDevDogra/working#readme"
 }
